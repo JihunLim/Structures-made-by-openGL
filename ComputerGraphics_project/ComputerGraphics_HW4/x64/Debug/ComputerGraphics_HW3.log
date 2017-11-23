@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (ComputerGraphics_HW3.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  ComputerGraphics_HW3.vcxproj -> D:\세종대학교 교재 및 과제\2017 3학년\1학기\컴퓨터그래픽스\과제4\ComputerGraphics_HW3_13010979\x64\Debug\ComputerGraphics_HW4.exe
+  ComputerGraphics_HW3.vcxproj -> D:\세종대학교 교재 및 과제\2017 3학년\1학기\컴퓨터그래픽스\과제4\ComputerGraphics_HW3_13010979\x64\Debug\ComputerGraphics_HW4.pdb (Partial PDB)
